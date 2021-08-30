@@ -20,6 +20,6 @@ However, as a demonstration, I can show a part of the CAD system I developed for
 
 - For demonstration shown, the creation of the interface and the implementation of the simplest geoi. primitives
 - Anticipating the question of where their comments are, there are no such requirements of the customer
-- This example shows the claimed skills in a Lin vacancy. algebra, etc.
+- This example shows the claimed skills in algebra, etc.
 - The project is built for VS 2019 
 
